@@ -1,8 +1,8 @@
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 Simple PCA denoising of 1D array (for example time series signal)
-Written in Python 3.8.5
+Written in Python 3.7
 By Chris Mancuso
-Updated March 13 2021
+Updated April 2019
 IN:
 	signal:		1D signal of size M (comma separated file)
 					-see fname
